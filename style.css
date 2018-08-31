@@ -1,0 +1,54 @@
+body {
+	background-image: url(faints.jpg);
+	background-size: 100%;
+	margin: 0%;
+	padding: 0%;
+}
+
+header {
+	text-align: center;
+	color: rgb(255, 153, 37);
+	text-shadow: 0 0 16px rgb(255, 221, 201), 0 0 20px rgb(255, 255, 255);
+}
+
+.titles {
+	text-align: center;
+	margin-left: 120px;
+}
+li{
+	float: left;
+	margin-right: 100px;
+	list-style-type: none;
+	color: aliceblue;
+	text-shadow: 0 0 16px rgb(255, 95, 0), 0 0 20px rgb(250, 129, 59);
+}
+
+article{
+	float: left;
+}
+.sect{
+	text-align: center;
+	margin-left: 4%;
+}
+
+.p1 {
+	width: 246px;
+	float: left;
+}
+.p2 {
+	width: 205px;
+	float: left;
+}
+.p3 {
+	width: 187px;
+	float: left;
+}
+
+#bottom {
+	text-align: center;
+	margin-top: 40%;
+	padding: 5px;
+	color: aliceblue;
+	height: 39px;
+	text-shadow: 0 0 16px rgb(255, 95, 0), 0 0 20px rgb(255, 95, 0);
+}
